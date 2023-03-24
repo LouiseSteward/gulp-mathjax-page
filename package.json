@@ -7,7 +7,7 @@
     "test": "test"
   },
   "dependencies": {
-    "@romars/mathjax-node-page": "^1.5.2",
+    "mathjax-node-page": "^3.2.0",
     "gulp-plugin-fabric": "github:arthurattwell/gulp-plugin-fabric"
   },
   "devDependencies": {
